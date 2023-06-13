@@ -51,3 +51,5 @@ Lists
 	w reversedList
 	f i=$length(myList):-1:1 d
 	. w $extract(myList,i)
+	;	
+	;test comment for push
